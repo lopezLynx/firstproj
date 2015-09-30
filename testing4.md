@@ -14,6 +14,6 @@ The Applied Filters directive keeps track of all filter options checked on a sid
 ## OPTIONS
 
 | Options                  | Type         	   | Default/Values      |   Description                                                |
-| ------------------------ | ----------------- | ------------------- | ------------------------------------------------------------ |
+| ------------------------ | :---------------: | :-----------------: | :----------------------------------------------------------- |
 | appliedFilters           | Object            | No default value    | Key/value pair map that contains applied filter values       |
 | removeFilterCallback     | Object            | No default value    | Function that is called when a user clicks the "x" button to| |                          |                   |                     | remove a filter from the applied filters list. This allows | |                          |                   |                     | custom logic to be executed after a filter is removed from | |                          |                   |                     | the list.                                                    |
